@@ -1,1 +1,1 @@
-#Beginnings of Golf Scraper
+# Beginnings of Betting API
